@@ -41,7 +41,7 @@ class _SigninScreenState extends State<SigninScreen> {
         title: const Text("Signin with google"),
       ),
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 100),
+        padding: const EdgeInsets.symmetric(horizontal: 100),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
